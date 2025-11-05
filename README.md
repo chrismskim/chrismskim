@@ -13,11 +13,9 @@
   🌱 Interests: <strong>Machine Learning</strong> and <strong>Computer Vision</strong>
 </p>
 
----
+<br>
 
 ## 🛠t e c h ⚙
-
-
 <div align=center>
 <br>
 <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white"> 
@@ -32,5 +30,8 @@
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
+
+<br>
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrismskim&layout=compact)
