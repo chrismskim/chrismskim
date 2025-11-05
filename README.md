@@ -2,6 +2,16 @@
 
 <div align=center>
 
+## ME 🚹
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Dongguk_University_Logo.png" alt="Dongguk University" width="150"/>
+</p>
+
+<p align="center">
+  🎓 Artificial Intelligence Major at <strong>Dongguk University</strong>
+</p>
+
+
 ## 🌹 t e c h 🌹
 
 
