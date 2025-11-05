@@ -2,15 +2,17 @@
 
 <div align=center>
 
-## ME 🚹
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Dongguk_University_Logo.png" alt="Dongguk University" width="150"/>
+  <img src="https://github.com/chrismskim/chrismskim/blob/main/dongguk.svg?raw=true" alt="Dongguk University" width="150"/>
 </p>
 
 <p align="center">
-  🎓 Artificial Intelligence Major at <strong>Dongguk University</strong>
+  🎓 Major : <strong>Artificial Intelligence</strong>  
+  <br>
+  🌱 Interests: <strong>Machine Learning</strong> and <strong>Computer Vision</strong>
 </p>
 
+---
 
 ## 🌹 t e c h 🌹
 
