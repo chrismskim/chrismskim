@@ -109,7 +109,6 @@
 
 | Project | Description | Core Stack |
 | :--- | :--- | :--- |
-| **[beginnerproject](https://github.com/chrismskim/beginnerproject)** | A foundational AI/SW collaborative project repository for beginner developers | `Python` `Git` |
 | **Face Recognition System** | Real-time multi-face detection and facial embedding identification pipeline | `Python` `OpenCV` `YOLO` |
 | **Object Detection Application** | Video stream object recognition and bounding-box tracking system | `Python` `OpenCV` `YOLO` |
 | **Automated Sewer Blockage Management** | Sewer blockage detection system with automated alerting and sensor-based control | `Python` `Arduino` `Sensors` |
