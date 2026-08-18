@@ -9,12 +9,14 @@
       <td width="220" align="center" style="border: none;">
         <img src="https://github.com/chrismskim/chrismskim/blob/main/dongguk.svg?raw=true" alt="Dongguk University" width="100"/>
         <br/><br/>
+        🎓<br/>
         <b>B.S. in Artificial Intelligence</b><br/>
         Dongguk University
       </td>
       <td width="220" align="center" style="border: none;">
         <img src="https://github.com/chrismskim/chrismskim/blob/main/NU.png?raw=true" alt="Northeastern University" width="100"/>
         <br/><br/>
+        <sub>[ 2026 Fall ~ ]</sub><br/>
         <b>M.S. in Artificial Intelligence</b><br/>
         Northeastern University
       </td>
@@ -24,8 +26,8 @@
   <br>
 
   <p align="center">
+    📞
     <a href="mailto:chrismskim@naver.com"><img src="https://img.shields.io/badge/Email-chrismskim%40naver.com-E65100?style=flat-square&logo=naver&logoColor=white" /></a>
-    <a href="https://github.com/chrismskim"><img src="https://img.shields.io/badge/GitHub-chrismskim-E65100?style=flat-square&logo=github&logoColor=white" /></a>
   </p>
 
 </div>
@@ -96,10 +98,10 @@
 
 | Project | Description | Stack | Period |
 | :--- | :--- | :--- | :--- |
-| **[AI_Voicebot](https://github.com/chrismskim/AI_Voicebot)** | • 실시간 위기 감지 및 음성 보조 시스템 아키텍처 설계 & 배포 주도<br>• KIIS 2025 추계학술대회 제1저자 논문 게재 | `TypeScript` `PyTorch` `STT/TTS` | 2025.03 – 2025.12 |
-| **[Implement-GPT-2](https://github.com/chrismskim/Implement-GPT-2)** | • PyTorch 기반 GPT-2 모델 밑바닥부터 구현 및 RoBERTa-XLNet 앙상블<br>• LoRA PEFT 적용 (CHRF +48.7% 향상, 패러프레이즈 정확도 89.7%) | `Python` `PyTorch` `LoRA` `NLP` | 2025.03 – 2025.06 |
-| **[CustomFace](https://github.com/chrismskim/CustomFace)** | • 얼굴 랜드마크 기반 TPS 워핑 파이프라인 설계<br>• FER 유사도 스코어링을 통한 감정 일관성 유지 캐리커처 생성 자동화 | `Python` `OpenCV` `MediaPipe` | 2024.09 – 2024.12 |
-| **[VisionAssist](https://github.com/chrismskim/VisionAssist)** | • 시각장애인을 위한 실시간 상품 객체 탐지 및 음성 안내 서비스<br>• Django 백엔드 - React 프론트엔드 - STT/TTS API 연동 및 엔드투엔드 구축 | `JavaScript` `YOLOv5` `Django` `React` | 2024.09 – 2024.11 |
+| **[AI_Voicebot](https://github.com/chrismskim/AI_Voicebot)** | • Led the system architecture design and deployment for real-time crisis detection and voice assistance<br>• Published as Co-first Author at the KIIS 2025 Fall Conference | `TypeScript` `PyTorch` `STT/TTS` | 2025.03 – 2025.12 |
+| **[Implement-GPT-2](https://github.com/chrismskim/Implement-GPT-2)** | • Built the GPT-2 model architecture from scratch using PyTorch and designed a RoBERTa–XLNet weighted ensemble<br>• Applied LoRA-based PEFT, improving CHRF score by +48.7% and reaching 89.7% paraphrase accuracy | `Python` `PyTorch` `LoRA` `NLP` | 2025.03 – 2025.06 |
+| **[CustomFace](https://github.com/chrismskim/CustomFace)** | • Built a facial landmark-based Thin Plate Spline (TPS) warping pipeline<br>• Automated end-to-end caricature generation maintaining emotion consistency via FER-based similarity scoring | `Python` `OpenCV` `MediaPipe` | 2024.09 – 2024.12 |
+| **[VisionAssist](https://github.com/chrismskim/VisionAssist)** | • Developed a real-time product object detection and voice guidance system for visually impaired individuals<br>• Integrated React frontend, Django backend, and STT/TTS APIs for complete end-to-end functionality | `JavaScript` `YOLOv5` `Django` `React` | 2024.09 – 2024.11 |
 
 <br>
 
@@ -107,8 +109,8 @@
 
 | Project | Description | Core Stack |
 | :--- | :--- | :--- |
-| **[beginnerproject](https://github.com/chrismskim/beginnerproject)** | 초보 개발자를 위한 겨울방학 AI/SW 기초 프로젝트 모음 | `Python` `Git` |
-| **Face Recognition System** | 실시간 다중 얼굴 검출 및 인물 임베딩 식별 시스템 | `Python` `OpenCV` `YOLO` |
-| **Object Detection Application** | 영상 스트림 내 객체 인식 및 바운딩 박스 추적 애플리케이션 | `Python` `OpenCV` `YOLO` |
-| **Automated Sewer Blockage Management** | 하수구 막힘 감지 및 자동 알림 제어 시스템 | `Python` `Arduino` `Sensors` |
-| **Single-Cycle CPU Simulation** | 하드웨어 구조 분석을 위한 단일 사이클 CPU 동작 시뮬레이터 | `C` `Linux` `Computer Architecture` |
+| **[beginnerproject](https://github.com/chrismskim/beginnerproject)** | A foundational AI/SW collaborative project repository for beginner developers | `Python` `Git` |
+| **Face Recognition System** | Real-time multi-face detection and facial embedding identification pipeline | `Python` `OpenCV` `YOLO` |
+| **Object Detection Application** | Video stream object recognition and bounding-box tracking system | `Python` `OpenCV` `YOLO` |
+| **Automated Sewer Blockage Management** | Sewer blockage detection system with automated alerting and sensor-based control | `Python` `Arduino` `Sensors` |
+| **Single-Cycle CPU Simulation** | Single-cycle CPU functional simulator designed for computer architecture evaluation | `C` `Linux` `Computer Architecture` |
